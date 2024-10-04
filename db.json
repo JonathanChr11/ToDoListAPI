@@ -1,0 +1,38 @@
+{
+  "projects": [
+    {
+      "background": [
+        "#e66465",
+        "#9198e5"
+      ],
+      "title": "Project 1",
+      "tasks": [
+        {
+          "id": 1,
+          "date": "2024-10-04T16:12:03.653Z",
+          "title": "Task 1",
+          "description": "test",
+          "status": "Completed"
+        },
+        {
+          "id": 2,
+          "date": "2024-10-04T16:12:34.319Z",
+          "title": "Task 2",
+          "description": "Test",
+          "status": "On Progress"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "background": [
+        "#4c669f",
+        "#3b5998",
+        "#192f6a"
+      ],
+      "title": "Project 2",
+      "tasks": [],
+      "id": 2
+    }
+  ]
+}
